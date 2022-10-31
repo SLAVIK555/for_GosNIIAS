@@ -1,0 +1,5 @@
+*.a
+train/
+val/
+test/
+leg/
