@@ -2,4 +2,4 @@ train/
 val/
 test/
 leg/
-.ipynb_checkpoints/
+.ipynb_checkpoints
