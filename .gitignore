@@ -1,5 +1,5 @@
-*.a
 train/
 val/
 test/
 leg/
+.ipynb_checkpoints/
